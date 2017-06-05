@@ -2,7 +2,7 @@
 Minimalistic "Fork me on GitHub"
 # [Preview](http://www.muzzammil.xyz/git/OctoCSS/).
 # What is this?
-This is, well, you what this is. Just see the preview above.
+This is, well, you know what it is. Just see the preview for more.
 # Liscense
 MIT License
 
