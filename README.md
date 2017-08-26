@@ -1,8 +1,11 @@
 # Octo.CSS
 Minimalistic "Fork me on GitHub"
-# [Preview](http://www.muzzammil.xyz/git/OctoCSS/).
+# [Preview](https://git.muzzammil.xyz/OctoCSS/).
 # What is this?
 This is, well, you know what it is. Just see the preview for more.
+# Using OctoCSS? Let me know!
+If you are using OctoCSS, first of all, _thank you_, secondly, let me know and I'll mention it here:
+> * [nabeelomer.me](https://nabeelomer.me)
 # Liscense
 MIT License
 
