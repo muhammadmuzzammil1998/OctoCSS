@@ -4,7 +4,7 @@ Minimalistic "Fork me on GitHub"
 # What is this?
 This is, well, you know what it is. Just see the preview for more.
 # Using OctoCSS? Let me know!
-If you are using OctoCSS, first of all, _thank you_, secondly, let me know and I'll mention it here:
+If you are using OctoCSS, first of all, _thank you_, secondly, [let me know](mailto:email@muzzammil.xyz) and I'll mention it here:
 > * [nabeelomer.me](https://nabeelomer.me)
 # Liscense
 MIT License
