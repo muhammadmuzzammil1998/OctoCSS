@@ -1,6 +1,6 @@
 # Octo.CSS
 Minimalistic "Fork me on GitHub"
-# [Preview](https://git.muzzammil.xyz/OctoCSS/).
+# [Preview](https://git.muzzammil.xyz/OctoCSS/?github).
 # What is this?
 This is, well, you know what it is. Just see the preview for more.
 # Using OctoCSS? Let me know!
