@@ -53,5 +53,6 @@ github img{
     width: 70px;
     margin-top: 28px;
     margin-left: -37px;
-    background-color: white;
+    background-color: #F9F9F9;
 }
+github img:hover{background-color: white;}
