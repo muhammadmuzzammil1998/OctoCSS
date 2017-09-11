@@ -44,10 +44,10 @@ This is, well, you know what it is. Just see the preview for more.
 # Using OctoCSS? Let me know!
 If you are using OctoCSS, first of all, _thank you_, secondly, [let me know](mailto:email@muzzammil.xyz) and I'll mention it here:
 > * [nabeelomer.me](https://nabeelomer.me)
-# Liscense
+# License
 MIT License
 
-Copyright (c) 2017 Muhammad Muzzammil (http://www.muzzammil.xyz/git/OctoCSS)
+Copyright (c) 2017 Muhammad Muzzammil (https://git.muzzammil.xyz/OctoCSS/)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
