@@ -6,6 +6,10 @@ Minimalistic "Fork me on GitHub"
 # What is this?
 This is, well, you know what it is. Just see the preview for more.
 
+# Themes
+## For dark theme use ```?theme=dark```, see example.
+## For light do nothing, it's default.
+
 # How to use:
 ## Just include "octo.css" in ```<head></head>``` tag:
 ```
@@ -29,7 +33,11 @@ This is, well, you know what it is. Just see the preview for more.
 <html>
 <head>
   <title>OctoCSS Example</title>
-  <link rel="stylesheet" type="text/css" href="https://cdn.muzzammil.xyz/OctoCSS/octo.css">
+  <link rel="stylesheet" type="text/css" href="https://cdn.muzzammil.xyz/OctoCSS/">
+  <!--
+  For dark theme:
+  <link rel="stylesheet" type="text/css" href="https://cdn.muzzammil.xyz/OctoCSS/?theme=dark">
+  -->
 </head>
 <body>
   <a href="https://github.com/muhammadmuzzammil1998/OctoCSS/" target="_blank">
