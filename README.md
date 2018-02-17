@@ -1,33 +1,31 @@
-# Octo.CSS
+# Octo.CSS · [Preview](https://git.muzzammil.xyz/OctoCSS/?github)
 Minimalistic "Fork me on GitHub"
 
-# [Preview](https://git.muzzammil.xyz/OctoCSS/?github).
-
-# What is this?
+## What is this?
 This is, well, you know what it is. Just see the preview for more.
 
-# Themes
-## For dark theme use ```?theme=dark```, see example.
-## For light do nothing, it's default.
+## Themes
+### For dark theme use ```?theme=dark```, see example.
+### For light do nothing, it's default.
 
-# How to use:
-## Just include "octo.css" in ```<head></head>``` tag:
+## How to use:
+### Just include "octo.css" in ```<head></head>``` tag:
 ```
 <head>
    <link rel="stylesheet" type="text/css" href="octo.css">
 </head>
 ```
-## Now, use the <github> tag anywhere in your code:
-### For top-right use:
+### Now, use the <github> tag anywhere in your code:
+#### For top-right use:
 ```
 <github class="octo-right"><img src="github.svg"></github>
 ```
-### For top-left use:
+#### For top-left use:
 ```
 <github class="octo-left"><img src="github.svg"></github>
 ```
 
-# Example
+## Example
 ```
 <!DOCTYPE html>
 <html>
@@ -49,11 +47,10 @@ This is, well, you know what it is. Just see the preview for more.
 </html>
 ```
 
-# Using OctoCSS? Let me know!
-If you are using OctoCSS, first of all, _thank you_, secondly, [let me know](mailto:email@muzzammil.xyz) and I'll mention it here:
-> * [nabeelomer.me](https://nabeelomer.me)
-> * [abot.apki.io](https://abot.apki.io/)
-# License
+## Using OctoCSS? Let me know!
+If you are using OctoCSS, first of all, _thank you_, secondly, [let me know](mailto:email@muzzammil.xyz) and I'll mention it here.
+
+## License
 MIT License
 
 Copyright (c) 2017 Muhammad Muzzammil (https://git.muzzammil.xyz/OctoCSS/)
